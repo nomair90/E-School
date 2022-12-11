@@ -1,0 +1,98 @@
+*{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-transform: capitalize;
+
+}
+.bg{
+    background-color: #F0FFF0;
+    
+    height: 82.63988522238164vh;
+    overflow: hidden;
+}
+.logo{
+    width: 14.521260997067449vw;
+}
+.sign-in-button{
+    border-radius: 33px;
+    border: none;
+    padding: 
+    12px 28px 12px 28px;
+    background-color:  #21B573;
+    color: white;
+    
+}
+.buy-course{
+    border-radius: 30px;
+    border: none;
+    padding: 12px 36px 12px 36px;
+    background-color:  #21B573;   
+}
+.get-started-button{
+    border-radius: 30px;
+    border: none;
+    padding: 12px 36px 12px 36px;
+    background-color:  #21B573;
+    
+
+}
+.png{
+width: 4.125rem;
+
+}
+.books{
+    background-color: #F0FFF0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.bs{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 12px 29px 0px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.icon{
+    width: 1.31vw;
+}
+.card-footer{
+    border: none;
+    background: transparent;
+}
+.crd{
+    border-radius: 18px;
+    height: 68.8vh;
+}
+.st{
+    float: right;
+}
+.m{
+    margin: 2.15vh;
+}
+.mr{
+    margin-top: 14.34vh;
+    margin-bottom: 7.1vh;
+    text-align: center;
+    text-transform: capitalize;
+}
+.man{
+    width: 10%;
+    float: left;
+    margin-left: 250px;
+}
+.text{
+    margin-left: 450px;
+    margin-right: 300px;
+    margin-top: 5%;
+
+}
+.footer{
+    background-color: #282531;
+    padding-top: 50px;
+    margin-top:  14.347202295552368vh;
+    color: white;
+    overflow: hidden;
+}
+.cnt{
+    margin-top: 10vh;
+}
+.t{
+    margin-top: 7.1vh;
+}
